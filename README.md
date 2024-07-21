@@ -1,5 +1,5 @@
 # This is a  NEW LINE
--this is a new line of code on line 2<br>  
+&#9675;this is a new line of code on line 2<br>  
 	-this is a indent of line 2<br> 
 	-this is what the dash looks like<br>
 +this is a new line of code on line 5<br>
